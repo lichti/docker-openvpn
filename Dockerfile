@@ -15,5 +15,3 @@ RUN echo 'America/Sao_Paulo' >/etc/timezone && \
 
 
 WORKDIR /etc/openvpn
-
-ENTRYPOINT openvpn
